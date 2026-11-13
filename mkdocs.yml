@@ -7,3 +7,9 @@ nav:
       - Color Thresholding: color-thresholding.md
       - Contour Filtering and Sorting: contour-filtering.md
       - Additional Theory: retro-theory.md
+  - AprilTag Pipelines:
+      - Tracking AprilTags: apriltags.md
+      - 3D AprilTags: apriltag-3d.md
+      - 3D Coordinate Systems In Detail: apriltag-coordinate-systems.md
+      - AprilTag Map Specification: apriltag-map-specification.md
+      - Map Builder Tool & Generator: apriltag-map-builder.md
