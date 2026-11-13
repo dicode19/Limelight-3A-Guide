@@ -13,3 +13,7 @@ nav:
       - 3D Coordinate Systems In Detail: apriltag-coordinate-systems.md
       - AprilTag Map Specification: apriltag-map-specification.md
       - Map Builder Tool & Generator: apriltag-map-builder.md
+  - Neural Network Pipelines:
+      - Getting Started with Neural Networks: getting-started-neural.md
+      - Training a Custom Classifier Model: training-classifier.md
+      - Training a Custom Detector Model: training-detector.md
