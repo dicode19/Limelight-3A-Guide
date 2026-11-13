@@ -3,4 +3,7 @@ theme:
   name: readthedocs
 nav:
   - Головна: index.md
-  - Кольорові пайплайни: color-pipelines.md
+  - Color/Retroreflective Pipelines:
+      - Color Thresholding: color-thresholding.md
+      - Contour Filtering and Sorting: contour-filtering.md
+      - Additional Theory: retro-theory.md
