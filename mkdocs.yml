@@ -3,3 +3,4 @@ theme:
   name: readthedocs
 nav:
   - Головна: index.md
+  - Кольорові пайплайни: color-pipelines.md
