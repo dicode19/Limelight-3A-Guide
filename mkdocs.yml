@@ -4,7 +4,7 @@ theme:
 nav:
   - Головна: index.md
   - Color/Retroreflective Pipelines:
-      - Color Thresholding: color-thresholding.md
+      - Color Thresholding: color/color-thresholding.md
       - Contour Filtering and Sorting: contour-filtering.md
       - Additional Theory: retro-theory.md
   - AprilTag Pipelines:
