@@ -17,3 +17,6 @@ nav:
       - Getting Started with Neural Networks: getting-started-neural.md
       - Training a Custom Classifier Model: training-classifier.md
       - Training a Custom Detector Model: training-detector.md
+  - Programming:
+      - FTC Java & Blockly Guide: ftc-programming.md
+      - Q&A: qa.md
