@@ -1,22 +1,34 @@
-site_name: Limelight 3A документація для FTC 
+
+site_name: Limelight 3A документація для FTC
+
 theme:
   name: readthedocs
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+
 nav:
   - Головна: index.md
-  - Кольорові/світловідбиваючі пайплайни:
+
+  - Кольорові/світловідбивні пайплайни:
       - Порогове значення кольору: color/color-thresholding.md
       - Фільтрація та сортування контурів: color/contour-filtering.md
       - Додаткова теорія: color/retro-theory.md
+
   - Пайплайни AprilTag:
       - Відстеження AprilTags: apriltags/apriltags.md
       - 3D AprilTags: apriltags/apriltag-3d.md
       - Системи 3D-координат детально: apriltags/apriltag-coordinate-systems.md
       - Специфікація карт AprilTag: apriltags/apriltag-map-specification.md
       - Інструмент створення карт та генератор міток: apriltags/apriltag-map-builder.md
+
   - Пайплайни нейромереж:
       - Початок роботи з нейромережами: neural/getting-started-neural.md
       - Навчання Custom Classifier Model: neural/training-classifier.md
       - Навчання Custom Detector Model: neural/training-detector.md
+
   - Програмування:
       - FTC Java & Blockly гайд: programming/ftc-programming.md
       - Q&A: programming/qa.md
