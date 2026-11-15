@@ -5,18 +5,18 @@ nav:
   - Головна: index.md
   - Color/Retroreflective Pipelines:
       - Color Thresholding: color/color-thresholding.md
-      - Contour Filtering and Sorting: contour-filtering.md
-      - Additional Theory: retro-theory.md
+      - Contour Filtering and Sorting: color/contour-filtering.md
+      - Additional Theory: color/retro-theory.md
   - AprilTag Pipelines:
-      - Tracking AprilTags: apriltags.md
-      - 3D AprilTags: apriltag-3d.md
-      - 3D Coordinate Systems In Detail: apriltag-coordinate-systems.md
-      - AprilTag Map Specification: apriltag-map-specification.md
-      - Map Builder Tool & Generator: apriltag-map-builder.md
+      - Tracking AprilTags: apriltags/apriltags.md
+      - 3D AprilTags: apriltags/apriltag-3d.md
+      - 3D Coordinate Systems In Detail: apriltags/apriltag-coordinate-systems.md
+      - AprilTag Map Specification: apriltags/apriltag-map-specification.md
+      - Map Builder Tool & Generator: apriltags/apriltag-map-builder.md
   - Neural Network Pipelines:
-      - Getting Started with Neural Networks: getting-started-neural.md
-      - Training a Custom Classifier Model: training-classifier.md
-      - Training a Custom Detector Model: training-detector.md
+      - Getting Started with Neural Networks: neural/getting-started-neural.md
+      - Training a Custom Classifier Model: neural/training-classifier.md
+      - Training a Custom Detector Model: neural/training-detector.md
   - Programming:
-      - FTC Java & Blockly Guide: ftc-programming.md
-      - Q&A: qa.md
+      - FTC Java & Blockly Guide: programming/ftc-programming.md
+      - Q&A: programming/qa.md
