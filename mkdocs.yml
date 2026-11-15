@@ -1,22 +1,22 @@
-site_name: Limelight 3A Documentation
+site_name: Limelight 3A документація для FTC 
 theme:
   name: readthedocs
 nav:
   - Головна: index.md
-  - Color/Retroreflective Pipelines:
-      - Color Thresholding: color/color-thresholding.md
-      - Contour Filtering and Sorting: color/contour-filtering.md
-      - Additional Theory: color/retro-theory.md
-  - AprilTag Pipelines:
-      - Tracking AprilTags: apriltags/apriltags.md
+  - Кольорові/світловідбиваючі пайплайни:
+      - Порогове значення кольору: color/color-thresholding.md
+      - Фільтрація та сортування контурів: color/contour-filtering.md
+      - Додаткова теорія: color/retro-theory.md
+  - Пайплайни AprilTag:
+      - Відстеження AprilTags: apriltags/apriltags.md
       - 3D AprilTags: apriltags/apriltag-3d.md
-      - 3D Coordinate Systems In Detail: apriltags/apriltag-coordinate-systems.md
-      - AprilTag Map Specification: apriltags/apriltag-map-specification.md
-      - Map Builder Tool & Generator: apriltags/apriltag-map-builder.md
-  - Neural Network Pipelines:
-      - Getting Started with Neural Networks: neural/getting-started-neural.md
-      - Training a Custom Classifier Model: neural/training-classifier.md
-      - Training a Custom Detector Model: neural/training-detector.md
-  - Programming:
-      - FTC Java & Blockly Guide: programming/ftc-programming.md
+      - Системи 3D-координат детально: apriltags/apriltag-coordinate-systems.md
+      - Специфікація карт AprilTag: apriltags/apriltag-map-specification.md
+      - Інструмент створення карт та генератор міток: apriltags/apriltag-map-builder.md
+  - Пайплайни нейромереж:
+      - Початок роботи з нейромережами: neural/getting-started-neural.md
+      - Навчання Custom Classifier Model: neural/training-classifier.md
+      - Навчання Custom Detector Model: neural/training-detector.md
+  - Програмування:
+      - FTC Java & Blockly гайд: programming/ftc-programming.md
       - Q&A: programming/qa.md
