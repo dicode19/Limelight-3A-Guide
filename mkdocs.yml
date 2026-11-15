@@ -30,5 +30,5 @@ nav:
       - Навчання Custom Detector Model: neural/training-detector.md
 
   - Програмування:
-      - FTC Java & Blockly гайд: programming/ftc-programming.md
-      - Q&A: programming/qa.md
+      - FTC Java & Blockly гайд: programing/ftc-programming.md
+      - Q&A: programing/qa.md
