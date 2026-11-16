@@ -264,8 +264,4 @@ Limelight повертатиме ціль лише тоді, коли вона �
 
 ![Налаштування Goal Z-Offset](images/contour-filtering/goal-z-offset.png)
 
----
 
-**Попередній розділ:** [Колірна фільтрація (Color Thresholding)](color-thresholding.md)
-
-**Наступний розділ:** [Додаткова теорія (Additional Theory)](additional-theory.md)
