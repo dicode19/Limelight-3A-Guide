@@ -11,7 +11,7 @@ markdown_extensions:
 
 nav:
   - Головна: index.md
-
+  - Швидкий старт: start.md
   - Кольорові пайплайни:
       - Порогове значення кольору: color/color-thresholding.md
       - Фільтрація та сортування контурів: color/contour-filtering.md
