@@ -132,8 +132,4 @@ Hue Inversion використовується для розпізнавання
 
 ![Приклад Hue Inversion](images/color-thresholding/hue-inversion.png)
 
----
 
-**Наступний розділ:** [Фільтрація та сортування контурів (Contour Filtering and Sorting)](contour-filtering.md)
-
-**Джерело:** [Limelight Documentation — Color Thresholding](https://docs.limelightvision.io/docs/docs-limelight/pipeline-retro/color-filtering)
