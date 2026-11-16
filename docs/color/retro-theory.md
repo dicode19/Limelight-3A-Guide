@@ -322,9 +322,3 @@ a_y = atan2(y,1)
 5. Програмне забезпечення FTC використовує ці значення для коригування положення механізмів або напрямку руху робота.
 
 **Важливо:** кути Limelight визначають напрямок відносно камери. Якщо камера встановлена під кутом або зміщена відносно механізму наведення, потрібно враховувати це під час розрахунків.
-
----
-
-**Попередній розділ:** [Фільтрація та сортування контурів (Contour Filtering and Sorting)](contour-filtering.md)
-
-**Джерело:** [Limelight Documentation — Additional Theory](https://docs.limelightvision.io/docs/docs-limelight/pipeline-retro/retro-theory)
